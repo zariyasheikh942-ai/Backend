@@ -46,7 +46,3 @@ const { product } = req.body ;
 })
 
 
-app.listen(4000,()=>{
-    console.log("Server of backend is ruuning");
-    
-});
